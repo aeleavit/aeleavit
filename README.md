@@ -1,11 +1,11 @@
 ## Hi there 👋, I am Angela Leavitt
 
-###<!--I am passionate about graphic design, education and creativity
+### <!--I am passionate about graphic design, education and creativity
 **aeleavit/aeleavit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-:star: **About me:** <sub>Angela Leavitt is a creative professional with a strong foundation in digital marketing and graphic design. She holds undergraduate degrees in Graphic Design and Psychology and is currently pursuing a Master’s in Graphic Information Technology.</sub>
+:star: **About me:** Angela Leavitt is a creative professional with a strong foundation in digital marketing and graphic design. She holds undergraduate degrees in Graphic Design and Psychology and is currently pursuing a Master’s in Graphic Information Technology.
 
  In her role as Program Manager at ASU in California, she creates inclusive events for ASU California students and designs and executes all marketing efforts for campus events. Using her expertise in graphic design, she crafts impactful campaigns that engage diverse audiences. Angela has over two decades of experience in education, including her previous work at FIDM, where she applied her creativity to manage social media, design graphics, and meet with students to assist with their career needs.<br/>
 
@@ -13,8 +13,8 @@ Her career highlights also include designing handbags for stores globally and fo
 
 With a passion for innovation and storytelling, Angela strives to create meaningful connections through design, technology, and strategic communication.<br/>
 
-📫 How to reach me: [title](https://www.linkedin.com/in/angela-e-leavitt/)
-😄 Pronouns: She/Her
-⚡ Fun fact: ...I enjoy cycling, road and gravel, painting, and all things creative. 
+📫 **How to reach me:** [title](https://www.linkedin.com/in/angela-e-leavitt/)
+😄 **Pronouns:** She/Her
+⚡ **Fun fact:** I enjoy cycling, road and gravel, painting, and all things creative. 
 -->
 ! [alt text](imagehttps://camo.githubusercontent.com/3349054ce3024e1…662675f636f6c6f723d302c3131313131312c333333333333.jpg)
