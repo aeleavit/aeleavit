@@ -1,7 +1,6 @@
 ## Hi there 👋, I am Angela Leavitt
 ### I am passionate about graphic design, education and creativity
 ###<!--
-aeleavit/aeleavit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 :star: **About me:** Angela Leavitt is a creative professional with a strong foundation in digital marketing and graphic design. She holds undergraduate degrees in Graphic Design and Psychology and is currently pursuing a Master’s in Graphic Information Technology.
 
@@ -11,7 +10,7 @@ Her career highlights also include designing handbags for stores globally and fo
 
 With a passion for innovation and storytelling, Angela strives to create meaningful connections through design, technology, and strategic communication.<br/>
 
-📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/angela-e-leavitt/) [email](malto:angelaleavitt@gmail.com)<br/>
+📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/angela-e-leavitt/) <br/>
 😄 **Pronouns:** She/Her <br/>
 ⚡ **Fun fact:** I enjoy painting, cycling--road and gravel-- and all things creative. <br/>
 ### <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aeleavit&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
