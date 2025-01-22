@@ -1,5 +1,6 @@
 ## Hi there 👋, I am Angela Leavitt
 ### I am passionate about graphic design, education and creativity
+<img><iframe src="https://giphy.com/embed/2NZ8icbUx2UGk4R7Ac" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-sunset-sun-down-2NZ8icbUx2UGk4R7Ac">via GIPHY</a></p>
 
 :star: **About me:** Angela Leavitt is a creative professional with a strong foundation in graphic design and digital marketing. She holds undergraduate degrees in Psychology and Graphic Design and is currently pursuing a Master's Degree in Graphic Information Technology.
 
