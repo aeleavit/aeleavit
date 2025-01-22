@@ -1,6 +1,5 @@
 ## Hi there 👋, I am Angela Leavitt
 ### I am passionate about graphic design, education and creativity
-###<!--
 
 :star: **About me:** Angela Leavitt is a creative professional with a strong foundation in digital marketing and graphic design. She holds undergraduate degrees in Graphic Design and Psychology and is currently pursuing a Master’s in Graphic Information Technology.
 
