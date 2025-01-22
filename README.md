@@ -5,7 +5,7 @@
 
  In her role as Program Manager at ASU in California, she creates inclusive events for ASU California students and designs and executes all marketing efforts for campus events. Using her expertise in graphic design, she crafts impactful campaigns that engage diverse audiences. Angela has over two decades of experience in education, including her previous work at FIDM, where she applied her creativity to manage social media, design graphics, and meet with students to assist with their career needs.<br/>
 
-Her career highlights also include designing handbags for stores globally and for celebrity clients, blending creativity with a deep understanding of client needs. She has extensive experience in digital marketing for multiple clients.<br/>
+Her career highlights also include designing handbags for stores globally and for celebrity clients, blending creativity with a deep understanding of client needs. She has extensive experience in design and digital marketing for multiple clients.<br/>
 
 With a passion for innovation and storytelling, Angela strives to create meaningful connections through design, technology, and strategic communication.<br/>
 🧑‍🎨 **My work:** [Behance](https://www.behance.net/gallery/40288117/Graphic-Design-Portfolio/modules/243791989) <br/>
