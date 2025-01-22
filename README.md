@@ -16,4 +16,3 @@ With a passion for innovation and storytelling, Angela strives to create meaning
 ⚡ **Fun fact:** I enjoy cycling, road and gravel, painting, and all things creative. <br/>
 ### <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aeleavit&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-### <img src="https://myreadme.vercel.app/api/embed/aeleavit?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
