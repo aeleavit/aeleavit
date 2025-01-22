@@ -16,9 +16,5 @@ With a passion for innovation and storytelling, Angela strives to create meaning
 📫 **How to reach me:** [title](https://www.linkedin.com/in/angela-e-leavitt/)
 😄 **Pronouns:** She/Her
 ⚡ **Fun fact:** I enjoy cycling, road and gravel, painting, and all things creative. 
---><link rel="stylesheet" href="https://status-im.github.io/status-chat-widget/themes/status.css">
-  <script src="https://status-im.github.io/status-chat-widget/dist/js/statuswidget.js"></script>
-  <div id="status-chat-widget"></div>
-  <script>StatusWidget("your-channel-name", document.getElementById("status-chat-widget"));</script>
-
-! [alt text](imagehttps://camo.githubusercontent.com/3349054ce3024e1…662675f636f6c6f723d302c3131313131312c333333333333.jpg)
+--><link rel="stylesheet" href="https://status-im.github.io/
+! [alt text](<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />);</script>
