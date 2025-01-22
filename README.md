@@ -8,7 +8,7 @@
 Her career highlights also include designing handbags for stores globally and for celebrity clients, blending creativity with a deep understanding of client needs. She has extensive experience in digital marketing for multiple clients.<br/>
 
 With a passion for innovation and storytelling, Angela strives to create meaningful connections through design, technology, and strategic communication.<br/>
-
+🧑‍🎨 **My work:** [Behance](https://www.behance.net/gallery/40288117/Graphic-Design-Portfolio/modules/243791989) <br/>
 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/angela-e-leavitt/) <br/>
 😄 **Pronouns:** She/Her <br/>
 ⚡ **Fun fact:** I enjoy painting, cycling--road and gravel-- and all things creative. <br/>
