@@ -11,10 +11,10 @@ Her career highlights also include designing handbags for stores globally and fo
 
 With a passion for innovation and storytelling, Angela strives to create meaningful connections through design, technology, and strategic communication.<br/>
 
-📫 **How to reach me:** [title](https://www.linkedin.com/in/angela-e-leavitt/) <br/>
+📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/angela-e-leavitt/) <br/>
 😄 **Pronouns:** She/Her <br/>
 ⚡ **Fun fact:** I enjoy cycling, road and gravel, painting, and all things creative. <br/>
 ### <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aeleavit&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
---><link rel="stylesheet" href="https://status-im.github.io/
-### ! [alt text](<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aeleavit&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />);</script>
+
+### <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aeleavit&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />);</script>
 <img src="https://myreadme.vercel.app/api/embed/aeleavit?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
