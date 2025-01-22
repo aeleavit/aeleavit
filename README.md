@@ -14,6 +14,7 @@ After graduation, Angela plans to continue working with her freelance clients, r
 🧑‍🎨 **My work:** [Behance](https://www.behance.net/gallery/40288117/Graphic-Design-Portfolio/modules/243791989) <br/>
 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/angela-e-leavitt/) <br/>
 😄 **Pronouns:** She/Her <br/>
-⚡ **Fun fact:** I enjoy painting, cycling--road and gravel-- and all things creative. <br/>
+⚡ **Fun fact:** I enjoy painting, cycling <hr />road and gravel<hr /> and all things creative. <br/>
 ### <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aeleavit&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
+!
