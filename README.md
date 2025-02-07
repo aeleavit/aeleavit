@@ -7,7 +7,7 @@
 
 As a program manager at ASU in California, Angela creates inclusive events for students and designs and executes marketing strategies for campus events. Leveraging her expertise in graphic design, she crafts impactful campaigns that engage diverse audiences.
 
-With over two decase of experience in education, Angela previously work at FIDM, where she applied her creativity to manage social media design, and support students who wanted to work in the creative industries. Her career highlights also include designing handbags for retail stores globally and designing for celebrity clients, blending artistic creativity with a depp understanding of current trends and client needs.
+With over two decades of experience in education, Angela previously work at FIDM, where she applied her creativity to manage social media design, and support students who wanted to work in the creative industries. Her career highlights also include designing handbags for retail stores globally and designing for celebrity clients, blending artistic creativity with a depp understanding of current trends and client needs.
 
 Angela has extensive experience in digital marketing, serving multiple clients across industries. Driven by her passion for innovation and storytelling, she aims to create meaningful connections through design, technology, and strategic communication.
 
